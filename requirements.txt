@@ -1,0 +1,6 @@
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+playwright==1.41.2
+python-dotenv==1.0.0
+pyairtable==2.3.0
+agentql==0.1.0
